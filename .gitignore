@@ -1,0 +1,7 @@
+﻿stm32单片机教程素材
+
+*.pdsbak
+*.workspace
+
+**/IAR/Debug/
+!*.hex

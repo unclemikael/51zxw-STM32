@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\JM\Desktop\stm32_learn\Multiple char TX&amp;RX\IAR\DRIVER\src\usart.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\JM\Desktop\stm32_learn\lcd 12864\IAR\DRIVER\src\key.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\JM\Desktop\stm32_learn\lcd 12864\IAR\DRIVER\src\led.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\JM\Desktop\stm32_learn\override prinf\IAR\DRIVER\src\timer.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+</userOverrides>
